@@ -1,0 +1,53 @@
+Operating System 
+Genuine Windows 8 (64-bit)
+
+Model : Series 3 NP350E7C-A01US
+
+CPU/ Processor
+Intel Core i7-3630QM Processor 2.4 GHz 6MB L3
+
+Display
+Screen Size 17.3" LED HD+ 1600 x 900 220 nits
+
+Memory
+Standard System Memory 8GB DDR3 (1600MHz)
+Max. System Memory 8GB
+
+Storage
+Hard Drive Capacity 1TB RPM 5400
+RPM SATA SATA2
+
+Graphics
+Intel HD Graphics 4000
+
+ODD 
+DVD +/-RW Super Multi Dual Layer (S-ATA)
+
+Multimedia
+Sound Technology SoundAlive
+Internal Mic Yes
+Web Camera 1.3MP HD
+
+Connectivity
+Wireless LAN 802.11 a/b/g/n
+Bluetooth Bluetooth 4.0
+WiDi Yes
+Wired Ethernet LAN Gigabit LAN
+
+I/O Ports
+VGA Yes
+HDMI Yes
+Multi Card Slot 3-in-1 (SD/SDHC/SDXC)
+RJ45 (LAN) Yes
+
+Input Devices
+Keyboard 101 Keys
+Numeric Yes
+Touch Pad Touch Pad (Scroll Scope, Flat Type)
+
+Power
+Number of Cells / Cell Type 6 Cell / Li-Ion Watt
+Hours 48 Wh
+
+Color 
+Black

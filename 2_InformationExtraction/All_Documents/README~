@@ -1,0 +1,22 @@
+-Original Documents: 373 
+--Filename format: <SerialNumber>_<AmazonASIN>.txt
+---For example: 3_B002RMQFGW.txt
+
+-Entity Type marked up: Brand Names
+
+-Annotation Files: 337 
+--Annotation Filename format: <OriginalDocumentFileName>.annot 	 <SerialNumber>_<AmazonASIN>.txt.annot
+---For example: 3_B002RMQFGW.txt.annot
+
+-Annotation methodology:
+--Each original document has a corresponding annotation file.
+--Each annotation file contains a series of lines, one for each occurrence of a brand name in the correponding original document. 
+--Each line contains a tuple representing the start index and end index of each brand name occurrence. 
+--Each index is of the form <LineNumber>.<CharacterNumber>
+---For example: If the contents of 3_B002RMQFGW.txt.annot are as follows/:
+1.0,1.5
+1.196,1.201
+---then the document 3_B002RMQFGW.txt contains 2 brand names at indices (1.0,1.5) and (1.196,1.201) respectively. In this case, the first 5 letters (1.0,1.5) of the document form a brand name:  
+
+
+-Documents were annotated using a GUI programmed in python by the team for the information extraction stage (Stage2) of the project.  

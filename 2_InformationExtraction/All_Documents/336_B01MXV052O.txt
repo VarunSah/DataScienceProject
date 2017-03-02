@@ -1,0 +1,1 @@
+SpecificationsProcessor: ARMCortex-A RK3288CQuad Core (4 Core)1.80 GHzMemory:4 GBLPDDR3 SDRAMMemory Slot On-boardHard Drive :16 GB eMMCGraphics: GPU ARM MaliDisplay: 11.6" Widescreen HD 1366x768 DisplayTouchscreen NoWireless LAN WLAN 802.11 a/b/g/n/acBluetooth Bluetooth 4.1Interface & PortsWebcam YesPower & BatteryBattery 38WHrs, 2S1P, 2-cell Li-ion Polymer Battery

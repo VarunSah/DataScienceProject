@@ -1,0 +1,19 @@
+Specifications
+
+    * 13.3-inch LED-backlit glossy widescreen display with a 1440 x 900-pixel resolution
+    * Up to 7 hours of wireless productivity plus up to 30 days of standby time
+    * 2.13 GHz Intel Core 2 Duo processor with 6 MB on-chip shared L2 cache and 1066 MHz frontside bus.
+    * 256 GB flash memory storage
+    * 4 GB installed RAM (1066 MHz DDR3)
+    * NVIDIA GeForce 320M graphics processor (with 256 MB of DDR3 SDRAM shared with main memory) for an outstanding everyday graphics experience.
+    * Built-in FaceTime camera for video chatting
+    * Wi-Fi wireless networking (based on 802.11n specification; 802.11a/b/g compatible)
+    * Bluetooth 2.1 + EDR (Enhanced Data Rate) for connecting with peripherals such as keyboards, mice and cell phones
+    * Two USB 2.0 ports with networking using optional Apple USB Ethernet adapter
+    * SD card slot
+    * Mini DisplayPort output port with support for DVI, VGA, dual-link DVI, and HDMI (requires adapters, sold separately)
+    * Built-in stereo speakers along with omnidirectional microphone, headphone minijack
+    * Full-size keyboard
+    * Multi-Touch trackpad for precise cursor control; supports inertial scrolling, pinch, rotate, swipe, three-finger swipe, four-finger swipe, tap, double-tap, and drag capabilities
+    * Dimensions: 12.8 x 8.94 x 0.68 inches (WxDxH)
+    * Weight: 2.9 pounds

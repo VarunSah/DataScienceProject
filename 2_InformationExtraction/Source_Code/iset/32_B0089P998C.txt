@@ -1,0 +1,14 @@
+DISPLAY | 13.3 in LED backlit (1600 x 900)PROCESSOR
+| Intel Core i5-2450M 2.50 GHz (up to 3.10 GHz)
+MEMORY | 4 GB DDR3 1333 MHz
+HARD DRIVE SIZE | 500 GB SATA 5400 RPM
+OPERATING SYSTEM | Windows 7 Home PremiumPC
+OPTICAL DRIVE | DVD SuperMulti drive
+Intel HD Graphics 3000 and AMD Radeon HD 6630M with 1 GB graphics memory
+PORTS 1 USB 3.0  2 USB 2.0  HDMI  Headphone output  VGA  RJ-45 (10/100/1000)
+BATTERY | 4400mAh lithium-polymer (up to 6.5 hours
+)*CAMERA | Integrated webcam
+WIRELESS | 802.11a/b/g/n  Intel Wireless Display (WiDi) capable (separate adapter required)
+BLUETOOTH | Yes
+DIMENSIONS | 13.04 x 8.84 x 0.92 in (331.21 x 224.53 x 23.36 mm)WEIGHT | 3.65 lbs (1.65 kg)
+COLOR | Black

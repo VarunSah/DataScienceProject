@@ -1,0 +1,7 @@
+dataset/          : Folder containing csv files created by feature extraction from annotated text documents  
+iset/		  : Folder containing text documents for training set
+jset/  		  : Folder containing text documents for test set
+classifier.ipynb  : IPython Notebook containing cross validation and classification code 
+classifier.py     : Python program containing cross validation and classification code
+feature_vectors.py: Python program for feature extraction
+textannot.py      :
