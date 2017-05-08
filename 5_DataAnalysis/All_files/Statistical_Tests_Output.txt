@@ -1,0 +1,52 @@
+
+> age_iucdAcceptance <- subset(indata, select=c(5,17))
+
+> bin_age_iucdAcceptance <- cbind(age_iucdAcceptance, rating_bin = cut(age_iucdAcceptance$AMAZON_RATING_AVG, breaks = c (-Inf, 2.5, Inf)));
+
+> bin_age_iucdAcceptance <- cbind(bin_age_iucdAcceptance, price_bin = cut(age_iucdAcceptance$PRICE, breaks = c (-Inf, 150, Inf)));
+
+> chi_age_iucdAcceptance <- chisq.test(table(bin_age_iucdAcceptance[3:4]));
+
+> chi_age_iucdAcceptance
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  table(bin_age_iucdAcceptance[3:4])
+X-squared = 5.3915, df = 1, p-value = 0.02024
+
+
+> chi_age_iucdAcceptance$observed
+            price_bin
+rating_bin   (-Inf,150] (150, Inf]
+  (-Inf,2.5]         35         23
+  (2.5, Inf]        685        228
+
+> chi_age_iucdAcceptance$expected;
+            price_bin
+rating_bin   (-Inf,150] (150, Inf]
+  (-Inf,2.5]   43.00721   14.99279
+  (2.5, Inf]  676.99279  236.00721
+
+> chi_age_iucdAcceptance$residual;
+            price_bin
+rating_bin   (-Inf,150] (150, Inf]
+  (-Inf,2.5] -1.2209856  2.0679495
+  (2.5, Inf]  0.3077437 -0.5212170
+
+> fisher_age_iucdAcceptance<- fisher.test(table(bin_age_iucdAcceptance[3:4]));
+
+> fisher_age_iucdAcceptance;
+
+	Fisher's Exact Test for Count Data
+
+data:  table(bin_age_iucdAcceptance[3:4])
+p-value = 0.01939
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.2843279 0.9188525
+sample estimates:
+odds ratio 
+ 0.5068895 
+
+
+> sink()
